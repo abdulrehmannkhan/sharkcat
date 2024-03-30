@@ -4476,3 +4476,39 @@ figcaption {
     align-items: center;
     padding-top: 90px;
 }
+.footer7_top-wrapper img.hero-img {
+  width: 50%;
+  margin: 0 auto;
+  display: table;
+  margin-bottom: -140px;
+}
+
+video {
+  width: 70% !IMPORTANT;
+  height: 510px;
+  object-fit: cover;
+}
+.circie-text-link-container.w-embed {
+  top: 90% !IMPORTANT;
+}
+
+@media screen and (max-width: 480px) {
+  .footer7_top-wrapper img.hero-img {
+    margin-bottom: -80px;
+    width: 80%;
+}
+
+video {
+    width: 90% !important;
+    height: 250px;
+}
+
+.circie-text-link-container.w-embed {
+    visibility: hidden;
+}
+
+.header1_image-wrapper img.hero-img {
+    margin-top: -110px;
+    margin-right: -15px;
+}
+}
