@@ -4491,7 +4491,10 @@ video {
 .circie-text-link-container.w-embed {
   top: 90% !IMPORTANT;
 }
-
+.w-layout-grid.footer7_link-list {
+  position: relative;
+  z-index: 999;
+}
 @media screen and (max-width: 480px) {
   .footer7_top-wrapper img.hero-img {
     margin-bottom: -80px;
