@@ -4483,11 +4483,11 @@ figcaption {
   margin-bottom: -140px;
 }
 
-video {
+/* video {
   width: 70% !IMPORTANT;
   height: 510px;
   object-fit: cover;
-}
+} */
 .circie-text-link-container.w-embed {
   top: 90% !IMPORTANT;
 }
