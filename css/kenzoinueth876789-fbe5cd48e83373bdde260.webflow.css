@@ -4495,6 +4495,12 @@ figcaption {
   position: relative;
   z-index: 999;
 }
+.videoosec img {
+  width: 70%;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+}
 @media screen and (max-width: 480px) {
   .footer7_top-wrapper img.hero-img {
     margin-bottom: -80px;
@@ -4513,5 +4519,11 @@ video {
 .header1_image-wrapper img.hero-img {
     margin-top: -110px;
     margin-right: -15px;
+}
+.videoosec img {
+  width: 90%;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
 }
 }
